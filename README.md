@@ -4,10 +4,6 @@
 
 **Fullstack Developer | Game Developer | App Developer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YousufAhmed27&style=for-the-badge&color=00ff00)
-![GitHub followers](https://img.shields.io/github/followers/YousufAhmed27?style=for-the-badge&color=00ff00)
-![GitHub stars](https://img.shields.io/github/stars/YousufAhmed27?style=for-the-badge&color=00ff00)
-
 </div>
 
 ---
@@ -71,28 +67,28 @@ I'm a passionate developer with expertise across multiple domains - from buildin
 
 ### Web Development Projects
 
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|------------|------------|
-| **Gaming Platform** | A comprehensive gaming platform with multiple features | HTML, CSS, JS, React, PHP, SQL | [Link]() |
-| **Queenture** | E-commerce furniture selling website | React, Tailwind, PHP, PostgreSQL | [Link]() |
-| **Online Course Platform** | Educational platform for online learning | React, Python, Flask, SQL | [Link]() |
-| **Company Landing Pages** | Professional one-page websites for businesses | HTML, CSS, SASS, Bootstrap | [Link]() |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Gaming Platform** | A comprehensive gaming platform with multiple features | HTML, CSS, JS, React, PHP, SQL |
+| **Queenture** | E-commerce furniture selling website | React, Tailwind, PHP, PostgreSQL |
+| **Online Course Platform** | Educational platform for online learning | React, Python, Flask, SQL |
+| **Company Landing Pages** | Professional one-page websites for businesses | HTML, CSS, SASS, Bootstrap |
 
 ### Game Development Projects
 
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|------------|------------|
-| **Action Games** | Fast-paced action games with engaging gameplay | Unity, C# | [Link]() |
-| **Maze Games** | Puzzle-based maze exploration games | Unity, C# | [Link]() |
-| **Clicker Games** | Browser-based clicker games | HTML5, Canvas, JavaScript | [Link]() |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Action Games** | Fast-paced action games with engaging gameplay | Unity, C# |
+| **Maze Games** | Puzzle-based maze exploration games | Unity, C# |
+| **Clicker Games** | Browser-based clicker games | HTML5, Canvas, JavaScript |
 
 ### App Development Projects
 
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|------------|------------|
-| **Receipt Generator App** | Barcode-based receipt generation with database storage | C#, SQL | [Link]() |
-| **Recipe App** | Food recipe manager with save/share features | Kotlin, SQLite | [Link]() |
-| **MindEase** | Mental health app with exercises, articles & doctor consultations | Kotlin, Firebase | [Link]() |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Receipt Generator App** | Barcode-based receipt generation with database storage | C#, SQL |
+| **Recipe App** | Food recipe manager with save/share features | Kotlin, SQLite |
+| **MindEase** | Mental health app with exercises, articles & doctor consultations | Kotlin, Firebase |
 
 ---
 
@@ -120,17 +116,6 @@ Backend   ███████████████████░░  90%
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousuf-gamal-eldeen-6545a3281/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YousufAhmed27)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousuf.gamaleldeen@gmail.com)
-
-</div>
-
----
-
-## 🏆 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YousufAhmed27&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YousufAhmed27&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
